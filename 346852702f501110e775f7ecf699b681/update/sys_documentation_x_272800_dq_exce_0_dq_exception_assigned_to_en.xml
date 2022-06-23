@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="assigned_to" label="DQ Assigned to" language="en" table="x_272800_dq_exce_0_dq_exception">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <help/>
+            <hint/>
+            <label>DQ Assigned to</label>
+            <language>en</language>
+            <name>x_272800_dq_exce_0_dq_exception</name>
+            <plural>DQ Assigned to</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-22 21:56:06</sys_created_on>
+            <sys_id>5f926eb82f901110e775f7ecf699b602</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>DQ Assigned to</sys_name>
+            <sys_package display_value="DQ Exception Tracker" source="x_272800_dq_exce_0">346852702f501110e775f7ecf699b681</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DQ Exception Tracker">346852702f501110e775f7ecf699b681</sys_scope>
+            <sys_update_name>sys_documentation_x_272800_dq_exce_0_dq_exception_assigned_to_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-22 21:56:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
